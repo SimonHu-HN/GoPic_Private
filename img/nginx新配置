@@ -1,0 +1,1 @@
+nginx 的配置 nginx.conf 记得关注Include部分，取消*的全匹配
